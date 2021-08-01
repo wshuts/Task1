@@ -1,0 +1,259 @@
+(was
+  (Lincoln Abraham)
+  (lawyer
+    an
+    American
+    and
+    statesman
+    (served
+      who
+      (as (president the 16th (of (States the United))))
+      (from 1861)
+      (until (assassination his (in 1865)))))
+  .)
+(led
+  Lincoln
+  (nation the)
+  (through
+    (War
+      the
+      American
+      Civil
+      ,
+      (crisis
+        (country the 's)
+        greatest
+        (moral , (cultural , (constitutional , and political))))))
+  .)
+(succeeded
+  He
+  (in
+    (preserving
+      (Union the)
+      ,
+      (abolishing
+        slavery
+        ,
+        (bolstering
+          (government the federal)
+          ,
+          and
+          (modernizing (economy the U.S.))))))
+  .)
+(born
+  
+
+
+  Lincoln
+  was
+  (into (poverty (in (cabin a log))))
+  and
+  (raised was (on (frontier the)) (in primarily Indiana))
+  .)
+(was
+  He
+  (educated self -)
+  and
+  (became (lawyer a))
+  ,
+  (leader
+    (Party Whig)
+    ,
+    (legislator
+      Illinois
+      state
+      ,
+      and
+      (Congressman U.S. (from Illinois))))
+  .)
+(returned
+  (In 1849)
+  ,
+  he
+  (to (practice his law))
+  but
+  (vexed
+    became
+    (by (opening the (of (lands additional))))
+    (slavery to (as (result a (of (Act the (Kansas – Nebraska)))))))
+  .)
+(reentered
+  He
+  politics
+  (in 1854)
+  ,
+  (becoming (leader a (in (Party the new Republican))))
+  ,
+  and
+  (reached
+    he
+    (audience a national)
+    (in (debates the 1858 (against (Douglas Stephen))))
+    .))
+(ran
+  Lincoln
+  (for President)
+  (in 1860)
+  ,
+  (sweeping (North the) (in victory))
+  .)
+(equated
+  (elements Pro - slavery (in (South the)))
+  (success
+    his
+    (with
+      (rejection
+        (North the 's)
+        (of (right their (practice to slavery))))))
+  ,
+  and
+  (began (states southern) (seceding (from (Union the))) .))
+(fired
+  (secure To (independence its))
+  ,
+  (States the new Confederate)
+  (on (Sumter Fort , (fort a U.S. (in (South the))) , and))
+  (called
+    Lincoln
+    up
+    forces
+    (suppress to (rebellion the) and (restore (Union the)))
+    .))
+(had
+  
+
+
+  (Lincoln , (Republican a moderate))
+  ,
+  (navigate
+    to
+    (array
+      a
+      contentious
+      (of factions)
+      (with
+        (friends
+          and
+          opponents
+          (from (parties both the (Democratic and Republican)))))))
+  .)
+(demanded
+  (allies His , (Democrats the War and (Republicans the Radical)))
+  ,
+  (treatment harsh (of (Confederates the Southern)))
+  .)
+(despised
+  (Democrats Anti - war ( (called (Copperheads " ")) ))
+  Lincoln
+  ,
+  and
+  (plotted
+    (elements irreconcilable pro - Confederate)
+    (assassination his)
+    .))
+(managed
+  He
+  (factions the)
+  (by
+    (exploiting
+      (enmity their mutual)
+      ,
+      (distributing carefully (patronage political))))
+  ,
+  and
+  (by (appealing (to (people the American))))
+  .)
+(appealed
+  (Address His Gettysburg)
+  (to
+    (sentiments
+      nationalistic
+      (, (republican , (egalitarian , (libertarian , and))))
+      democratic))
+  .)
+(scrutinized
+  Lincoln
+  (strategy the and tactics)
+  (in (effort the war))
+  ,
+  (including
+    (selection
+      the
+      (of generals)
+      and
+      (blockade the naval (of (trade (South the 's))))))
+  .)
+(suspended
+  He
+  (corpus habeas)
+  (in Maryland)
+  ,
+  and
+  (averted
+    he
+    (intervention British)
+    (by (defusing (Affair the Trent)))
+    .))
+(engineered
+  He
+  (end the (slavery to (with (Proclamation his Emancipation))))
+  ,
+  (including
+    (order
+      his
+      (liberate
+        that
+        (Army the and Navy)
+        ,
+        (protect , and (recruit (slaves former))))))
+  .)
+(encouraged
+  He
+  also
+  (states border)
+  (outlaw to slavery)
+  ,
+  and
+  (promoted
+    (Amendment the Thirteenth)
+    (to
+      (Constitution
+        the
+        (States United)
+        ,
+        (outlawed which (slavery (across (country the)))))))
+  .)
+(managed 
+
+ Lincoln (campaign his own successful re - election) .)
+(sought
+  He
+  (heal to (nation the (torn war -)) (through reconciliation))
+  .)
+(attending
+  (On (April 14 , 1865))
+  ,
+  (after (days just) (end (war the 's) (at Appomattox)))
+  ,
+  he
+  was
+  (play a)
+  (at (Theatre (Ford 's) (in (Washington , D.C. ,))))
+  (with (wife his Mary))
+  (shot
+    when
+    he
+    was
+    fatally
+    (by (Booth (sympathizer Confederate) John Wilkes)))
+  .)
+(remembered
+  Lincoln
+  is
+  (as (martyr a and hero (of (States the United))))
+  and
+  (ranked
+    is
+    consistently
+    (as (one (of (presidents the greatest (in (history American)))))))
+  .)
